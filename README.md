@@ -48,3 +48,13 @@ One step 的是，人绝对不愿意 two step 。 万事万物都如此。
 
 
 想起来，阿里开发的消息系统，消息队列，一个环状态的，消息队列
+
+消息延迟 
+https://cloud.tencent.com/developer/article/1163422
+分级别，秒级别，分钟级别，小时级别
+消息 to  worker todo something
+Timewheel
+
+日历模型
+
+
